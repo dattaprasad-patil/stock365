@@ -44,11 +44,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DSPGit/synechron-events-portal.git"
+    "url": "git+https://github.com/dattaprasad-patil/stock365.git"
   },
   "bugs": {
-    "url": "https://github.com/DSPGit/synechron-events-portal/issues"
+    "url": "https://github.com/dattaprasad-patil/stock365/issues"
   },
-  "homepage": "https://github.com/DSPGit/synechron-events-portal#readme",
+  "homepage": "https://github.com/dattaprasad-patil/stock365#readme",
   "description": ""
 }
